@@ -33,6 +33,7 @@ URL: GET /apicrud/{id}
 
 Parâmetro: {id} é o UUID do produto.
 Resposta: Retorna o produto correspondente ou 404 Not Found se não encontrado.
+
 4. Atualizar Produto
 
 URL: PUT /apicrud/{id}
@@ -44,6 +45,7 @@ Corpo:
   "value": 29.99
 }
 Resposta: Produto atualizado ou 404 Not Found se não encontrado.
+
 5. Excluir Produto
 
 URL: DELETE /apicrud/{id}
