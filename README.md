@@ -4,7 +4,7 @@ Este repositório contém uma API REST para o gerenciamento de produtos. Com est
 Configuração Inicial
 Para rodar este projeto localmente, siga as etapas abaixo:
 
-Clone o repositório para a sua máquina local usando git clone URL_DO_REPOSITORIO.
+Clone o repositório para a sua máquina local usando git clone.
 Abra o projeto no seu IDE de preferência e aguarde a sincronização das dependências.
 Configure uma instância local do banco de dados MySQL, conforme especificado em application.properties.
 Execute a aplicação através do comando ./mvnw spring-boot:run no diretório raiz do projeto.
